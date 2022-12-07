@@ -1,5 +1,5 @@
 # safe_navigation
-To run the code you need to have turtlebot2 up with ROS and all required packages mentioned here()
+To run the code you need to have turtlebot2 up with ROS and all required packages mentioned [here](https://web.archive.org/web/20201008004243/https://github.com/Interbotix/turtlebot2i/wiki/Full-Build-Instructions).
 
 
 ### How to run
